@@ -1,0 +1,2 @@
+# git-conflict-class
+conflict
